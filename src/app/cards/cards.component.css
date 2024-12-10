@@ -1,0 +1,15 @@
+img
+{
+    width: 300px;
+}
+
+.card{
+    margin:1%;
+    width: 300px;
+    align-items: center;
+}
+button
+{
+    width: 200px;
+    margin: 0px 0px 15px 0px;
+}

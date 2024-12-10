@@ -1,0 +1,19 @@
+.row{
+margin: 0px 50px;
+}
+
+.card
+{
+    margin: 0% 15px;
+    border: none;
+    box-shadow: 0.5px 0.5px 10px rgb(126, 126, 126) ;
+    text-align: center;
+}
+
+.buttoncolor
+{
+    background-color: aquamarine !important;
+    max-width: 50%;
+    margin: 5% 25%;
+}
+

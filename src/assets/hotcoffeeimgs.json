@@ -2,7 +2,7 @@
     {
         "id":1,
         "title":"cold coffee",
-        "src":"../../assets/cold coffee cards/coffee-5893926_640.jpg",
+        "src":"../../assets/hot coffee/021e06c7c08ef76491d854035725ce36.jpg",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -13,8 +13,8 @@
     },
     {
         "id":2,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/Cold-Coffee-2-3-500x500.jpg ",
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/500x500-TXB-coffee.jpg",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -22,10 +22,11 @@
         "heading":"desw",
         "button":"buy now"
 
-    },{
+    },
+    {
         "id":3,
-        "title":"sweets",
-        "src":" ../../assets/cold coffee cards/Cold-Coffee-4-500x500.jpg",
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/AMERICANO RUBUSTA_500x500.jpg",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -35,9 +36,9 @@
 
     },
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/cold-coffee-500x500.webp ",
+        "id":4,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/cafe-style-hot-coffee-recipe-1-500x500.webp",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -47,9 +48,9 @@
 
     },
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/Cold-Coffee-Thumbnail-500x500.jpg ",
+        "id":5,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/Hot-Coffee-500.webp",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -59,9 +60,9 @@
 
     },
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/Creamy-Iced-Coffee-feature-image-500x500.webp ",
+        "id":6,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/hot-coffee-cup-500x500.webp",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -71,9 +72,9 @@
 
     },
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/frappe-vanilla-cold-coffee-500x500.webp ",
+        "id":7,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/hot-coffee-paper-cups.webp",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -83,9 +84,9 @@
 
     },
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/iced-coffee-recipe@palates-desire-4-500x500.webp ",
+        "id":8,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/images.jpg",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -94,11 +95,10 @@
         "button":"buy now"
 
     },
-    
     {
-        "id":1,
-        "title":"sweets",
-        "src":"../../assets/cold coffee cards/images.jpg ",
+        "id":9,
+        "title":"cold coffee",
+        "src":"../../assets/hot coffee/which-coffee-cup-keeps-the-coffee-hot-longest-v0-edgmjuso9x4c1.webp",
         "alt":"",
         "price":"500",
         "discription":"Lorem",
@@ -107,5 +107,6 @@
         "button":"buy now"
 
     }
+    
     
 ]

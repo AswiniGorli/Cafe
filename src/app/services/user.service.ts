@@ -8,12 +8,21 @@ import { Observable } from 'rxjs';
 
 export class UserService {
 
-  private baseurl = "assets/cards.json";
+  private baseurl1 = "assets/cards.json";
+  private baseurl2 = "assets/mojitoimgs.json";
+  private baseurl3 = "assets/hotcoffeeimgs.json";
+
 
   constructor(private http: HttpClient) { }
   
-  getDetails(): Observable<any[]>{
-    return this.http.get<any[]>(`${this.baseurl}`)
+  getDetails1(): Observable<any[]>{
+    return this.http.get<any[]>(`${this.baseurl1}`)
+  }
+  getDetails2(): Observable<any[]>{
+    return this.http.get<any[]>(`${this.baseurl2}`)
+  }
+  getDetails3(): Observable<any[]>{
+    return this.http.get<any[]>(`${this.baseurl3}`)
   }
 
 }

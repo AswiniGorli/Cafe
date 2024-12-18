@@ -18,7 +18,8 @@ import { ColdcoffeeComponent } from './coldcoffee/coldcoffee.component';
 import { ColdcoffeecardsComponent } from './coldcoffeecards/coldcoffeecards.component';
 import { ColdcoffeedetailsComponent } from './coldcoffeedetails/coldcoffeedetails.component';
 import { HotcoffeecardsComponent } from './hotcoffeecards/hotcoffeecards.component';
-import { MojiticardsComponent } from './mojiticards/mojiticards.component'
+import { MojiticardsComponent } from './mojiticards/mojiticards.component';
+import { MojitoComponent } from './mojito/mojito.component'
 
 @NgModule({
   declarations: [
@@ -37,7 +38,8 @@ import { MojiticardsComponent } from './mojiticards/mojiticards.component'
     ColdcoffeecardsComponent,
     ColdcoffeedetailsComponent,
     HotcoffeecardsComponent,
-    MojiticardsComponent
+    MojiticardsComponent,
+    MojitoComponent
   ],
   imports: [
     BrowserModule,

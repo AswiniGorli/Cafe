@@ -13,6 +13,6 @@ constructor(private service:UserService,private route:ActivatedRoute){}
 
 ngOnInit():void{
   const id=Number(this.route.snapshot.paramMap.get('id'))
-  this.service.getDetails().subscribe(data=>{this.card=data.find(c=>c.id ===id)})
+  this.service.getDetails1().subscribe(data=>{this.card=data.find(c=>c.id ===id)})
 }
 }

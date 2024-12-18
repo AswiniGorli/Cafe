@@ -5,6 +5,8 @@ import { CardsdetailsComponent } from './cardsdetails/cardsdetails.component';
 import { WelcomeComponent } from './welcome/welcome.component';
 import { ContactusComponent } from './contactus/contactus.component';
 import { ColdcoffeeComponent } from './coldcoffee/coldcoffee.component';
+import { MojitoComponent } from './mojito/mojito.component';
+import { HotcoffeecardsComponent } from './hotcoffeecards/hotcoffeecards.component';
 const routes: Routes = [
   {
     path:'',component:WelcomeComponent
@@ -14,6 +16,12 @@ const routes: Routes = [
   },
   {
     path:'coldcoffee',component:ColdcoffeeComponent
+  },
+  {
+    path:'mojito',component:MojitoComponent
+  },
+  {
+    path:'hotcoffeecards',component:HotcoffeecardsComponent
   },
   {
     path:'card/:id',component:CardsdetailsComponent

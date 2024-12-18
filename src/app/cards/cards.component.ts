@@ -13,7 +13,7 @@ export class CardsComponent {
 constructor(private service:UserService,private router:Router){}
 
 ngOnInit():void{
-  this.service.getDetails().subscribe(data=>this.records=data);
+  this.service.getDetails1().subscribe(data=>this.records=data);
 }
 
 carddetails(id:number | undefined){

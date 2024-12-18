@@ -16,6 +16,6 @@ ngOnInit():void
   }
   coldcoffee()
   {
-    this.service.getDetails().subscribe(data=>this.details=data)
+    this.service.getDetails1().subscribe(data=>this.details=data)
   }
 }

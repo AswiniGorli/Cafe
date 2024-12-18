@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "title": "mojito",
+        "src":"../../assets/mojito cards/01COOKING-MOJITO3-square640.jpg" ,
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    
+    {
+        "id": 3,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/ai-generated-8663477_640.webp",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    
+    {
+        "id": 5,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/ai-generated-8820117_640.webp",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 6,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/ai-generated-8820118_640.webp",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 7,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/alcohol-8288761_640.webp",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 8,
+        "title": "mojito",
+        "src":"../../assets/mojito cards/Easy-Mojito-Recipe-5-640x640.jpg" ,
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 9,
+        "title": "mojito",
+        "src":"../../assets/mojito cards/images.jpg" ,
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 10,
+        "title": "mojito",
+        "src":"../../assets/mojito cards/mojito-cocktail-plastic-cup-fresh-mojito-cocktail-lime-mint-blue-drinking-straw-plastic-cup-isolated-white-120717855.webp" ,
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 11,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/mojito-recipe-1617742587.avif",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 12,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/mojito.avif",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 13,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/QmVBTp1DkhKvEDdzkGcpvJyhxWM1QqLVdbRjAmjtvnymPg.avif",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    },
+    {
+        "id": 14,
+        "title": "mojito",
+        "src": "../../assets/mojito cards/Razz-mojito.jpg",
+        "alt": "",
+        "price": "500",
+        "discription": "Lorem",
+        "subdesc": "sdkjijknjknf",
+        "heading": "desw",
+        "button": "buy now"
+    }
+   
+]

@@ -10,8 +10,14 @@ export class SubcardsComponent {
 
   constructor(private router:Router){}
 
-  onclick(){
+  onclick1(){
     this.router.navigate(['/coldcoffee'])
+  }
+  onclick2(){
+    this.router.navigate(['/mojito'])
+  }
+  onclick3(){
+    this.router.navigate(['/hotcoffeecards'])
   }
 
 

@@ -13,7 +13,7 @@
     },
     {
         "id":2,
-        "title":"sweets",
+        "title":"coffee choco mix",
         "src":"../../assets/cold coffee cards/Cold-Coffee-2-3-500x500.jpg ",
         "alt":"",
         "price":"500",
@@ -24,7 +24,7 @@
 
     },{
         "id":3,
-        "title":"sweets",
+        "title":"coffe with brownie",
         "src":" ../../assets/cold coffee cards/Cold-Coffee-4-500x500.jpg",
         "alt":"",
         "price":"500",
@@ -36,7 +36,7 @@
     },
     {
         "id":1,
-        "title":"sweets",
+        "title":"Mocha",
         "src":"../../assets/cold coffee cards/cold-coffee-500x500.webp ",
         "alt":"",
         "price":"500",
@@ -48,7 +48,7 @@
     },
     {
         "id":1,
-        "title":"sweets",
+        "title":"iced coffee",
         "src":"../../assets/cold coffee cards/Cold-Coffee-Thumbnail-500x500.jpg ",
         "alt":"",
         "price":"500",
@@ -60,7 +60,7 @@
     },
     {
         "id":1,
-        "title":"sweets",
+        "title":"Frappe",
         "src":"../../assets/cold coffee cards/Creamy-Iced-Coffee-feature-image-500x500.webp ",
         "alt":"",
         "price":"500",
@@ -72,7 +72,7 @@
     },
     {
         "id":1,
-        "title":"sweets",
+        "title":"cold brew",
         "src":"../../assets/cold coffee cards/frappe-vanilla-cold-coffee-500x500.webp ",
         "alt":"",
         "price":"500",
@@ -84,7 +84,7 @@
     },
     {
         "id":1,
-        "title":"sweets",
+        "title":"iced latte",
         "src":"../../assets/cold coffee cards/iced-coffee-recipe@palates-desire-4-500x500.webp ",
         "alt":"",
         "price":"500",
@@ -97,7 +97,7 @@
     
     {
         "id":1,
-        "title":"sweets",
+        "title":"caramel coffee",
         "src":"../../assets/cold coffee cards/images.jpg ",
         "alt":"",
         "price":"500",

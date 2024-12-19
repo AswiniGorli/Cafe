@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "title":"cold coffee",
+        "title":"Expresso",
         "src":"../../assets/hot coffee/021e06c7c08ef76491d854035725ce36.jpg",
         "alt":"",
         "price":"500",
@@ -13,7 +13,7 @@
     },
     {
         "id":2,
-        "title":"cold coffee",
+        "title":"Americano",
         "src":"../../assets/hot coffee/500x500-TXB-coffee.jpg",
         "alt":"",
         "price":"500",
@@ -25,7 +25,7 @@
     },
     {
         "id":3,
-        "title":"cold coffee",
+        "title":"Black coffe",
         "src":"../../assets/hot coffee/AMERICANO RUBUSTA_500x500.jpg",
         "alt":"",
         "price":"500",
@@ -37,7 +37,7 @@
     },
     {
         "id":4,
-        "title":"cold coffee",
+        "title":"Latte",
         "src":"../../assets/hot coffee/cafe-style-hot-coffee-recipe-1-500x500.webp",
         "alt":"",
         "price":"500",
@@ -49,7 +49,7 @@
     },
     {
         "id":5,
-        "title":"cold coffee",
+        "title":"Cappucino",
         "src":"../../assets/hot coffee/Hot-Coffee-500.webp",
         "alt":"",
         "price":"500",
@@ -61,7 +61,7 @@
     },
     {
         "id":6,
-        "title":"cold coffee",
+        "title":"Mocha",
         "src":"../../assets/hot coffee/hot-coffee-cup-500x500.webp",
         "alt":"",
         "price":"500",
@@ -73,7 +73,7 @@
     },
     {
         "id":7,
-        "title":"cold coffee",
+        "title":"Macchiato",
         "src":"../../assets/hot coffee/hot-coffee-paper-cups.webp",
         "alt":"",
         "price":"500",
@@ -85,7 +85,7 @@
     },
     {
         "id":8,
-        "title":"cold coffee",
+        "title":"long black",
         "src":"../../assets/hot coffee/images.jpg",
         "alt":"",
         "price":"500",
@@ -97,7 +97,7 @@
     },
     {
         "id":9,
-        "title":"cold coffee",
+        "title":"Matcha Latte",
         "src":"../../assets/hot coffee/which-coffee-cup-keeps-the-coffee-hot-longest-v0-edgmjuso9x4c1.webp",
         "alt":"",
         "price":"500",

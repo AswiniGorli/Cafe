@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "mojito",
+        "title": "Mint mojito",
         "src":"../../assets/mojito cards/01COOKING-MOJITO3-square640.jpg" ,
         "alt": "",
         "price": "500",
@@ -13,7 +13,7 @@
     
     {
         "id": 3,
-        "title": "mojito",
+        "title": "Lime and Mint",
         "src": "../../assets/mojito cards/ai-generated-8663477_640.webp",
         "alt": "",
         "price": "500",
@@ -25,7 +25,7 @@
     
     {
         "id": 5,
-        "title": "mojito",
+        "title": "Green Lime",
         "src": "../../assets/mojito cards/ai-generated-8820117_640.webp",
         "alt": "",
         "price": "500",
@@ -36,7 +36,7 @@
     },
     {
         "id": 6,
-        "title": "mojito",
+        "title": "Orange mojito",
         "src": "../../assets/mojito cards/ai-generated-8820118_640.webp",
         "alt": "",
         "price": "500",
@@ -47,7 +47,7 @@
     },
     {
         "id": 7,
-        "title": "mojito",
+        "title": "Masala Lemonade",
         "src": "../../assets/mojito cards/alcohol-8288761_640.webp",
         "alt": "",
         "price": "500",
@@ -58,7 +58,7 @@
     },
     {
         "id": 8,
-        "title": "mojito",
+        "title": "Ginger & Lime",
         "src":"../../assets/mojito cards/Easy-Mojito-Recipe-5-640x640.jpg" ,
         "alt": "",
         "price": "500",
@@ -69,7 +69,7 @@
     },
     {
         "id": 9,
-        "title": "mojito",
+        "title": "Limette",
         "src":"../../assets/mojito cards/images.jpg" ,
         "alt": "",
         "price": "500",
@@ -80,9 +80,9 @@
     },
     {
         "id": 10,
-        "title": "mojito",
+        "title": "Grenadine",
         "src":"../../assets/mojito cards/mojito-cocktail-plastic-cup-fresh-mojito-cocktail-lime-mint-blue-drinking-straw-plastic-cup-isolated-white-120717855.webp" ,
-        "alt": "",
+        "alt": "pina colada",
         "price": "500",
         "discription": "Lorem",
         "subdesc": "sdkjijknjknf",
@@ -91,7 +91,7 @@
     },
     {
         "id": 11,
-        "title": "mojito",
+        "title": "Lime and Mint",
         "src": "../../assets/mojito cards/mojito-recipe-1617742587.avif",
         "alt": "",
         "price": "500",
@@ -102,7 +102,7 @@
     },
     {
         "id": 12,
-        "title": "mojito",
+        "title": "Mix Fruit",
         "src": "../../assets/mojito cards/mojito.avif",
         "alt": "",
         "price": "500",
@@ -113,7 +113,7 @@
     },
     {
         "id": 13,
-        "title": "mojito",
+        "title": "Limette",
         "src": "../../assets/mojito cards/QmVBTp1DkhKvEDdzkGcpvJyhxWM1QqLVdbRjAmjtvnymPg.avif",
         "alt": "",
         "price": "500",
@@ -124,7 +124,7 @@
     },
     {
         "id": 14,
-        "title": "mojito",
+        "title": "Raspberry",
         "src": "../../assets/mojito cards/Razz-mojito.jpg",
         "alt": "",
         "price": "500",
